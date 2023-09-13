@@ -1,2 +1,2 @@
 # highLow
-guess the random number within a set range, using feedback for each guess, before running out of attempts
+Guess the number using hints before running out of attempts
